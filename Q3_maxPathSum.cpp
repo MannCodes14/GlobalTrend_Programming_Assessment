@@ -1,3 +1,6 @@
+// Given a non-empty binary tree, find the maximum path sum. A path is defined as any sequence of nodes from some starting node to any node in the tree along the parent-child connections. The path must contain at least one node and does not need to go through the root.The function should return an integer representing the maximum path sum.
+
+
 #include <iostream>
 #include <algorithm>
 #include <climits>

@@ -1,3 +1,5 @@
+// Given a string, find the length of the longest substring without repeating characters.The function should return an integer representing the length of the longest substring without repeating characters.
+
 #include <iostream>
 #include <string>
 

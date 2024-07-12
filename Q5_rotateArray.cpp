@@ -1,3 +1,6 @@
+// Write a function to rotate an array to the right by k steps.The function should modify the array in place to achieve the rotation.
+
+
 #include <iostream>
 #include <vector>
 

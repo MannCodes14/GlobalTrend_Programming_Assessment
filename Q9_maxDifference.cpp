@@ -1,3 +1,6 @@
+// Write a function to find the maximum difference between any two elements in an array.The function should return the maximum difference between any two elements in the array.
+
+
 #include <iostream>
 #include <vector>
 

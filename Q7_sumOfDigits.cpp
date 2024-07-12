@@ -1,3 +1,6 @@
+// Write a function to compute the sum of the digits of a given number.The function should return the sum of the digits of the number.
+
+
 #include <iostream>
 
 int sumOfDigits(int n)

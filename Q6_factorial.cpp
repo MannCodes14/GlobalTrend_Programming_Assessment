@@ -1,3 +1,5 @@
+// Write a function to find the factorial of a given number.The function should return the factorial of the number.
+
 #include <iostream>
 
 int fact(int n)

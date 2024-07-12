@@ -1,3 +1,6 @@
+// Write a function to check if a given string contains only alphabetic characters.The function should return true if the string contains only alphabetic characters, and false otherwise.
+
+
 #include <iostream>
 
 bool IsAlpha(std::string s)

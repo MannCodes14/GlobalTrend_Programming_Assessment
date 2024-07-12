@@ -1,3 +1,6 @@
+// Write a function to find the greatest common divisor (GCD) of two numbers. The function should return the GCD of a and b.
+
+
 #include <iostream>
 
 int findGCD(int a, int b)

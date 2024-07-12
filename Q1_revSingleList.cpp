@@ -1,3 +1,5 @@
+// Write a function to reverse a singly linked list.The function should take the head of the list and return the new head of the reversed list. 
+
 #include <iostream>
 
 class node
